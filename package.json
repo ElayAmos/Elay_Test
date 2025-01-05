@@ -1,0 +1,27 @@
+{
+    "name": "user-management-test",
+    "version": "1.0.0",
+    "description": "Automated testing for user management system",
+    "main": "datetest.js",
+    "scripts": {
+        "test": "node datetest.js",
+        "test:debug": "node --inspect-brk datetest.js"
+    },
+    "dependencies": {
+        "chromedriver": "^121.0.0",
+        "selenium-webdriver": "^4.27.0",
+        "winston": "^3.11.0"
+    },
+    "devDependencies": {
+        "chai": "^4.3.4",
+        "mocha": "^10.2.0"
+    },
+    "keywords": [
+        "selenium",
+        "automation",
+        "testing",
+        "user-management"
+    ],
+    "author": "",
+    "license": "ISC"
+}
