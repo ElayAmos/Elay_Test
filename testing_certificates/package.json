@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chromedriver": "^131.0.5",
+    "selenium-webdriver": "^4.27.0"
+  },
+  "name": "testing_certificates",
+  "version": "1.0.0",
+  "main": "certificate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
